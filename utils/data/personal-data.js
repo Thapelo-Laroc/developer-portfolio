@@ -8,10 +8,10 @@ export const personalData = {
   address: 'Mbombela City, Mpumalanga Province, South Africa ',
   github: 'https://github.com/Thapelo-Laroc',
   facebook: 'https://www.facebook.com/profile.php?id=1000123473091&mibextid=ZbWKwL',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
+  linkedIn: '#',
   twitter: 'https://twitter.com/thapelomamiane',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  stackOverflow: '#',
+  leetcode: "#",
+  devUsername: "#",
+  resume: "#"
 }
