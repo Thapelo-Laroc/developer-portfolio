@@ -34,16 +34,26 @@ export const projectsData = [
         demo: '',
         image: realEstate,
     },
-    // {
-    //     id: 4,
-    //     name: 'Newsroom Management',
-    //     description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-    //     tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
-    //     code: '',
-    //     demo: '',
-    //     image: ayla,
-    //     role: 'Full Stack Developer',
-    // }
+    {
+        id: 4,
+        name: 'Forex Analysis Website',
+        description: "I developed this website for Forex analysis and trading signal sharing on the platform. Users can view Live Forex data, economic calendar, and other forex related insights",
+        tools: ['Laravel', 'Trading View', 'PHP', 'NPM', "Calendar"],
+        code: 'Laravel Framework',
+        demo: 'https://mccroc.laroclearning.co.za',
+        image: ayla,
+        role: 'Full Stack Developer',
+    },
+    {
+        id: 5,
+        name: 'eLearning Website',
+        description: "I developed this eLearning Website for Laroc Learning where they can teach coding, upload videos, create quizzes and tests, track learner progress and so on",
+        tools: ['Laravel', 'Youtube API', 'PHP', 'NPM',],
+        code: 'Laravel Framework',
+        demo: 'https://dashboard.laroclearning.co.za',
+        image: ayla,
+        role: 'Full Stack Developer',
+    }
 ];
 
 
