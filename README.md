@@ -6,7 +6,7 @@
 
 # Demo :movie_camera:
 
-![](./public/image/portfolio (2).jpeg)
+![](./public/image/portfolio2.jpeg)
 
 ## View live preview [here](https://mokoena.netlify.app/).
 
